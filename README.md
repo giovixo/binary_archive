@@ -10,11 +10,11 @@ _On the stability of planetary orbits in binary star systems I. The S-type orbit
 
 This repository contains the results for a test particle (_massEqZero_ directory), a Jupiter-mass (_massEqMj_ directory), and 30 Jupiter mass planets (_massEq30Mj_ directory).
 
-The data are published for any binary mass ratio and eccentricity, apllying a common naming scheme. For example, the _csv_ file:
+The data are published for any binary mass ratio and eccentricity, applying a common naming scheme. For example, the _csv_ file:
 
 _massEqZero/mu_0.5/e_0.5/0/index_a.csv_
 
-contains the data for a test particle in a binary with a mass ration $\mu = 0.5$ and an eccentricity $e = 0.5$ with binary initially at apoapse (see Table 1 in the paper), at the first initial longitude. Note that the data are defined by the _path_ not by the file name, that is the same for any configuration.
+contains the data for a test particle in a binary with a mass ratio $\mu = 0.5$ and an eccentricity $e = 0.5$ with binary initially at apoapse, at the first initial longitude (see Table 1 in the paper). Note that the data are defined by the _path_ not by the file name, that is the same for any configuration.
 
 In the _csv_ file the _stability_ flag can have one of the following values:
 
