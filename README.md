@@ -27,4 +27,4 @@ In the _csv_ file the _stability_ flag can have one of the following values:
 
 ## How to use the archive
 
-First clone the repository, then use _python_ to read and process the _csv_ files.
+First clone the repository, then use _python_ (or any language you prefer) to read and process the _csv_ files.
