@@ -1,6 +1,6 @@
 # Data archive
 
-**Content**: data archive for the result presented in the following paper (submitted):
+**Content**: data archive for the result reported in the paper:
 
 _On the stability of planetary orbits in binary star systems I. The S-type orbits_
 
