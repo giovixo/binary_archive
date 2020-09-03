@@ -24,3 +24,7 @@ In the _csv_ file the _stability_ flag can have one of the following values:
 - _EJ_: ejection
 
 **Note:** The repository does not contains the raw file with orbits. Please, ask to the authors if you are also interested to these data.
+
+## How to use the archive
+
+First clone the repository, then use _python_ to read and process the _csv_ files.
